@@ -1,0 +1,226 @@
+{
+  "zone": "France, Outre-mer compris",
+  "fenetre": "48 dernières heures",
+  "actualites": [
+    {
+      "rang": 1,
+      "categorie": "Carburants",
+      "titre": "Carburants chers : aides et plafonds s’étendent",
+      "resume": "La hausse des prix à la pompe, liée aux tensions au Moyen-Orient, pousse l’État et TotalEnergies à prolonger des mesures de soutien. Transporteurs, automobilistes et vacanciers sont directement concernés par des coûts plus élevés.",
+      "image_query": "énergie + hausse des prix",
+      "articles": [
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/economie/carburants-total-maintient-le-blocage-des-prix-pour-le-week-end-de-la-pentecote-18-05-2026-C3Q3QRCZS5E5PPRAHN5JAJTW2M.php",
+          "description": "Plafond Total et aides annoncées",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "La Dépêche",
+          "url": "https://www.ladepeche.fr/2026/05/18/carburants-totalenergies-va-de-nouveau-plafonner-les-prix-ce-week-end-le-diesel-ne-depassera-pas-209-eur-dans-ses-stations-13376952.php",
+          "description": "Prix plafonnés dans les stations Total",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Ministère de la Transition écologique",
+          "url": "https://www.ecologie.gouv.fr/actualites/carburants-ouverture-du-guichet-daides-transporteurs-routiers",
+          "description": "Guichet d’aide aux transporteurs",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Connaissance des Énergies",
+          "url": "https://www.connaissancedesenergies.org/afp/carburants-sebastien-lecornu-presentera-ce-jeudi-les-nouvelles-aides-pour-le-mois-de-juin-260517",
+          "description": "Nouvelles aides carburants prévues",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TF1 Info",
+          "url": "https://www.tf1info.fr/conso/videos/video-essence-comment-expliquer-ce-niveau-record-10468-2442178.html",
+          "description": "Vidéo sur le niveau record de l’essence",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 2,
+      "categorie": "G7",
+      "titre": "Le G7 Finances tente d’éviter le choc mondial",
+      "resume": "Les ministres des Finances du G7 sont réunis à Paris pour répondre aux secousses économiques provoquées par la guerre au Moyen-Orient et les tensions sur le détroit d’Ormuz. Marchés, inflation et énergie sont au cœur des discussions.",
+      "image_query": "international + sommet",
+      "articles": [
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/17/les-ministres-des-finances-des-pays-du-g7-reunis-a-paris-pour-tenter-de-depasser-leurs-divergences_6690249_3234.html",
+          "description": "Divergences économiques du G7 à Paris",
+          "auteur": "Julien Bouissou",
+          "accessibilite": "payant"
+        },
+        {
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/en-pleine-guerre-au-moyen-orient-le-g7-finances-a-paris-au-chevet-de-l-economie-mondiale-0c6f038e528ad9efaaada3573da112ec",
+          "description": "Dépêche AFP sur la réunion du G7",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TV5Monde",
+          "url": "https://information.tv5monde.com/economie/en-pleine-guerre-au-moyen-orient-le-g7-finances-paris-au-chevet-de-leconomie-mondiale-2822025",
+          "description": "Enjeux mondiaux du G7 Finances",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Courrier international",
+          "url": "https://www.courrierinternational.com/article/economie-le-g7-finances-parviendra-t-il-a-l-unite-a-paris-face-au-blocage-du-detroit-d-ormuz_244117",
+          "description": "Analyse des divisions autour d’Ormuz",
+          "auteur": "Courrier international",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "La Tribune",
+          "url": "https://www.latribune.fr/article/economie/30479659235504/g7-finances-a-paris-production-industrielle-en-chine-petrole-en-hausse-lessentiel-de-lactualite-ce-lundi",
+          "description": "Résumé économique du lundi",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 3,
+      "categorie": "Calédonie",
+      "titre": "Nouvelle-Calédonie : vote sensible en urgence",
+      "resume": "Le Parlement examine en urgence une réforme du corps électoral pour les élections provinciales du 28 juin. Le sujet reste explosif en Nouvelle-Calédonie, deux ans après des violences liées au même débat institutionnel.",
+      "image_query": "politique + vote",
+      "articles": [
+        {
+          "media": "Maire-info",
+          "url": "https://www.maire-info.com/nouvelle-cal%C3%A9donie/une-nouvelle-proposition-de-loi-pour-%EF%BF%BD-d%C3%A9geler-%EF%BF%BD-le-corps-%C3%A9lectoral-en-nouvelle-c%C3%A9donie-examin%C3%A9e-en-urgence-par-le-parlement-article-30792",
+          "description": "Détails de la réforme électorale",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/politique/elections-provinciales-en-nouvelle-caledonie-le-texte-visant-a-elargir-le-corps-electoral-adopte-en-commission-au-senat",
+          "description": "Adoption en commission au Sénat",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Sénat",
+          "url": "https://www.senat.fr/actualite/integration-des-natifs-pour-les-elections-en-nouvelle-caledonie-7568.html",
+          "description": "Calendrier officiel du Sénat",
+          "auteur": "Sénat",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "La Gazette France",
+          "url": "https://www.lagazettefrance.fr/article/nouvelle-caledonie-le-gouvernement-engage-dans-un-contre-la-montre-incertain-au-parlement",
+          "description": "Course parlementaire du gouvernement",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Club des juristes",
+          "url": "https://www.leclubdesjuristes.com/en-bref/nouvelle-caledonie-le-senat-examine-lelargissement-du-corps-electoral-15891/",
+          "description": "Lecture juridique du texte",
+          "auteur": "La rédaction",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 4,
+      "categorie": "Cyberattaque",
+      "titre": "Gîtes de France piraté : 400 000 clients visés",
+      "resume": "Gîtes de France dit avoir subi un vol de données touchant près de 400 000 clients. Cette attaque s’ajoute à une série de piratages dans le tourisme, avec des risques de fraude et d’hameçonnage pour les vacanciers concernés.",
+      "image_query": "technologie + cyberattaque",
+      "articles": [
+        {
+          "media": "TF1 Info",
+          "url": "https://www.tf1info.fr/justice-faits-divers/vol-de-donnees-gites-de-france-vise-a-son-tour-par-une-cyberattaque-pres-de-400-000-clients-potentiellement-concernes-2442055.html",
+          "description": "Données de clients potentiellement volées",
+          "auteur": "A. LG avec AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "RTL",
+          "url": "https://www.rtl.fr/actu/justice-faits-divers/pres-de-400-000-clients-et-plusieurs-departements-concernes-le-reseau-gites-de-france-touche-par-une-cyberattaque-massive-7900635861",
+          "description": "Départements et clients concernés",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "CNEWS",
+          "url": "https://www.cnews.fr/france/2026-05-18/la-france-est-une-passoire-en-matiere-de-cybersecurite-ce-quil-faut-savoir-de",
+          "description": "Ce qu’il faut savoir sur l’attaque",
+          "auteur": "CNEWS",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Femme Actuelle",
+          "url": "https://www.femmeactuelle.fr/actu/news-actu/gites-de-france-victime-d-une-cyberattaque-les-donnees-de-pres-de-400-000-clients-derobees-etes-vous-concernes-2207598",
+          "description": "Conseils pour savoir si l’on est touché",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TourMag",
+          "url": "https://www.tourmag.com/Maeva-Belambra-Gites-de-France-le-tourisme-frappe-par-des-cyberattaques_a131783.html",
+          "description": "Vague de piratages dans le tourisme",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 5,
+      "categorie": "Narcotrafic",
+      "titre": "Nantes pleure un collégien tué par balles",
+      "resume": "À Nantes, les élèves d’un collège ont rendu hommage à un adolescent de 15 ans tué lors d’une fusillade dans le quartier Port-Boyer. Le drame relance l’inquiétude sur les violences liées au trafic de drogue en ville.",
+      "image_query": "faits divers + trafic de drogue",
+      "articles": [
+        {
+          "media": "La Gazette France",
+          "url": "https://www.lagazettefrance.fr/article/adolescent-tue-a-nantes-devant-son-college-des-eleves-tres-touches",
+          "description": "Hommage des élèves devant le collège",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites-amp/adolescent-tue-a-nantes-devant-son-college-des-eleves-tres-touches-25fea9a004dc2c4323c381f4f91dd2e4",
+          "description": "Dépêche AFP sur l’émotion au collège",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TV5Monde",
+          "url": "https://information.tv5monde.com/societe/adolescent-tue-nantes-devant-son-college-des-eleves-tres-touches-2822066",
+          "description": "Récit de la reprise des cours",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Actu Orange",
+          "url": "https://actu.orange.fr/france/adolescent-tue-a-nantes-devant-son-college-des-eleves-quot-tres-touches-quot-CNT000002pphkV.html",
+          "description": "Synthèse nationale de l’hommage",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Singulier",
+          "url": "https://lesinguliersete.fr/un-college-nantais-endeuille-par-la-mort-dun-adolescent-lors-dune-fusillade/",
+          "description": "Article local repris avec l’AFP",
+          "auteur": "Le Singulier avec AFP",
+          "accessibilite": "gratuit"
+        }
+      ]
+    }
+  ]
+}
