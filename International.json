@@ -1,0 +1,201 @@
+{
+  "zone": "International (focus France)",
+  "fenetre": "48 dernières heures",
+  "actualites": [
+    {
+      "rang": 1,
+      "categorie": "Ukraine",
+      "titre": "Ukraine : barrage massif de drones et missiles russes",
+      "resume": "Une attaque aérienne russe d’ampleur a visé plusieurs régions d’Ukraine, dont Dnipro et Odessa. Les autorités ukrainiennes évoquent des centaines de drones et des missiles, avec des blessés et des dégâts sur des bâtiments civils et des infrastructures.",
+      "image_query": [
+        "guerre + bombardement"
+      ],
+      "articles": [
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/05/18/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6690053_3210.html",
+          "description": "Le suivi minute par minute des frappes et bilans",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Euronews (FR)",
+          "url": "https://fr.euronews.com/my-europe/2026/05/18/la-russie-declenche-un-nouveau-barrage-aerien-sur-lukraine-visant-les-infrastructures-ener",
+          "description": "Contexte, chiffres et réactions de Zelensky",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "La Dépêche",
+          "url": "https://www.ladepeche.fr/2026/05/18/direct-guerre-en-ukraine-nos-capacites-a-longue-portee-changent-considerablement-la-situation-se-felicite-volodymyr-zelensky-13376369.php",
+          "description": "Fil d’actualité sur l’attaque et la riposte",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/bourse/actualites/en-bref-l-ukraine-attaque-des-sites-energetiques-russes-quels-sont-les-cibles-touchees-7e6e283ada270c731efcacfd1d48f9d6",
+          "description": "Point synthétique et éléments Reuters/énergie",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 2,
+      "categorie": "Moyen-Orient",
+      "titre": "Moyen-Orient : Iran–USA, Ormuz et frappes au Liban",
+      "resume": "Téhéran affirme avoir répondu à une proposition américaine pour sortir de l’impasse diplomatique, tandis que la tension reste vive dans la région. Les frappes et ripostes autour du Liban se poursuivent malgré une trêve, et le dossier du détroit d’Ormuz pèse sur la sécurité et l’économie.",
+      "image_query": [
+        "diplomatie + négociation"
+      ],
+      "articles": [
+        {
+          "media": "TF1 Info",
+          "url": "https://www.tf1info.fr/international/en-direct-moyen-orient-iran-nouvelles-menaces-de-trump-frappe-pres-d-un-site-nucleaire-emirati-les-informations-aujourd-hui-lundi-18-mai-2026-2442049.html",
+          "description": "Direct : réponse iranienne et faits marquants du jour",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/05/18/en-direct-guerre-au-moyen-orient-l-iran-dit-avoir-repondu-a-la-derniere-proposition-americaine-visant-a-sortir-de-l-impasse-diplomatique_6688992_3210.html",
+          "description": "Live : Ormuz, Liban et développements diplomatiques",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "L'Orient-Le Jour",
+          "url": "https://www.lorientlejour.com/article/1507184/liran-dit-avoir-repondu-a-la-derniere-proposition-americaine.html",
+          "description": "Focus sur la réponse iranienne et la médiation",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Le Nouvel Obs",
+          "url": "https://www.nouvelobs.com/monde/20260518.OBS115026/guerre-au-moyen-orient-nouvelle-menace-de-trump-envol-des-prix-du-petrole-le-point-sur-la-situation.html",
+          "description": "Récap avec impacts (pétrole, menaces, frappes)",
+          "auteur": "Service Actu (avec AFP)",
+          "accessibilite": "partiellement gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 3,
+      "categorie": "Justice",
+      "titre": "Peine de mort : Amnesty alerte sur un record d’exécutions",
+      "resume": "Le rapport annuel d’Amnesty International fait état d’un nombre d’exécutions en 2025 au plus haut depuis des décennies, avec une hausse marquée dans certains pays. L’ONG met en avant les tendances globales et appelle à renforcer la dynamique vers l’abolition.",
+      "image_query": [
+        "justice + condamnation"
+      ],
+      "articles": [
+        {
+          "media": "Amnesty International (FR)",
+          "url": "https://www.amnesty.org/fr/latest/news/2026/05/global-executions-surge-to-highest-recorded-figure-in-44-years/",
+          "description": "Communiqué : chiffres mondiaux et principaux constats",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Amnesty International France",
+          "url": "https://www.amnesty.fr/reperes/peine-de-mort-record-des-executions-depuis-1981/",
+          "description": "Synthèse en français et infographie des tendances",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/international/cette-minorite-ehontee-detats-le-nombre-dexecutions-dans-le-monde-navait-pas-ete-aussi-eleve-depuis-40-ans-18-05-2026-EMQB4TQBTNCJXN72SAA6GLRPDI.php",
+          "description": "Article grand public sur le rapport et ses causes",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/05/18/amnesty-international-annonce-un-nombre-d-executions-dans-le-monde-au-plus-haut-depuis-1981_6690410_3210.html",
+          "description": "Mise en perspective et détails du rapport annuel",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 4,
+      "categorie": "Pérou",
+      "titre": "Pérou : Fujimori et Sánchez qualifiés pour le second tour",
+      "resume": "L’autorité électorale péruvienne a officialisé les résultats du premier tour : Keiko Fujimori affrontera Roberto Sánchez au second tour, prévu le 7 juin. Le scrutin intervient dans un contexte de forte fragmentation politique et de contestations autour du processus électoral.",
+      "image_query": [
+        "politique + vote"
+      ],
+      "articles": [
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/05/18/au-perou-keiko-fujimori-et-roberto-sanchez-officiellement-qualifies-pour-le-second-tour-de-la-presidentielle_6690590_3210.html",
+          "description": "Annonce officielle et enjeux politiques du second tour",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Anadolu Agency (FR)",
+          "url": "https://www.aa.com.tr/fr/politique/p%C3%A9rou-keiko-fujimori-et-roberto-sanchez-qualifi%C3%A9s-pour-le-second-tour-de-la-pr%C3%A9sidentielle/3940543",
+          "description": "Synthèse factuelle des résultats et calendrier",
+          "auteur": "Ben Amed Azize Zougmore",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Mediapart",
+          "url": "https://www.mediapart.fr/journal/international/180526/presidentielle-au-perou-un-candidat-de-gauche-face-keiko-fujimori",
+          "description": "Analyse du duel et du contexte politique péruvien",
+          "auteur": "La rédaction de Mediapart et Agence France-Presse",
+          "accessibilite": "payant"
+        },
+        {
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-au-perou-roberto-sanchez-qualifie-pour-le-second-tour-face-a-fujimori-98c9b24d590e50fbeea7fee12c487357",
+          "description": "Dépêche et éléments chiffrés sur le scrutin",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 5,
+      "categorie": "G7",
+      "titre": "G7 Finances à Paris : économie mondiale et minerais critiques",
+      "resume": "Les ministres des Finances et gouverneurs des banques centrales du G7 se réunissent à Paris pour coordonner leur réponse aux chocs économiques, notamment liés aux tensions au Moyen-Orient, et réduire la dépendance aux minerais critiques. L’objectif : préserver la stabilité et le multilatéralisme.",
+      "image_query": [
+        "international + sommet"
+      ],
+      "articles": [
+        {
+          "media": "TV5MONDE",
+          "url": "https://information.tv5monde.com/economie/en-pleine-guerre-au-moyen-orient-le-g7-finances-paris-au-chevet-de-leconomie-mondiale-2822025",
+          "description": "Compte rendu des priorités et thèmes de la réunion",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "La Tribune",
+          "url": "https://www.latribune.fr/article/economie/international/14813925090619/le-g7-finances-tente-de-sauver-le-multilateralisme-face-a-la-chine",
+          "description": "Décryptage : tensions Chine/minerais et multilatéralisme",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/international/conflit-au-moyen-orient-les-ministres-des-finances-du-g7-reunis-a-paris-pour-rapprocher-leurs-positions-18-05-2026-ROZW37ZM5NCUVGL3BUVMJXJN4Q.php",
+          "description": "Angle grand public sur l’agenda et les enjeux",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/en-pleine-guerre-au-moyen-orient-le-g7-finances-a-paris-au-chevet-de-l-economie-mondiale-0c6f038e528ad9efaaada3573da112ec",
+          "description": "Dépêche AFP et détails (programme, messages clés)",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    }
+  ]
+}
