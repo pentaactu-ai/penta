@@ -1,0 +1,191 @@
+{
+  "zone": "Grand Est",
+  "fenetre": "48 dernières heures",
+  "actualites": [
+    {
+      "rang": 1,
+      "categorie": "Justice",
+      "titre": "Les avocats d’Alsace restent mobilisés",
+      "resume": "La contestation contre le projet de « plaider-coupable criminel » continue de peser sur les juridictions alsaciennes. À Saverne, certaines audiences restent perturbées, tandis que la Chancellerie répond aux critiques des barreaux.",
+      "image_query": "justice + enquête",
+      "articles": [
+        {
+          "media": "Les Dernières Nouvelles d’Alsace",
+          "url": "https://www.dna.fr/faits-divers-justice/2026/05/11/nouveau-mouvement-de-protestation-des-avocats-contre-le-plaider-coupable-criminel",
+          "description": "Point local sur la mobilisation des avocats",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Assemblée nationale",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mardi-28-avril-2026",
+          "description": "Débat parlementaire sur la réforme contestée",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "RTL",
+          "url": "https://www.dailymotion.com/video/xa9kjmk",
+          "description": "Journal évoquant le recul du ministère",
+          "auteur": "RTL",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/idees/article/2025/05/15/benjamin-fiorini-juriste-l-institution-d-un-plaider-coupable-en-matiere-criminelle-serait-catastrophique_6606270_3232.html",
+          "description": "Analyse juridique des risques de la réforme",
+          "auteur": "Benjamin Fiorini",
+          "accessibilite": "payant"
+        }
+      ]
+    },
+    {
+      "rang": 2,
+      "categorie": "Industrie",
+      "titre": "Hitachi Rail s’implante à Strasbourg",
+      "resume": "Le groupe japonais Hitachi Rail renforce sa présence dans le Grand Est avec une agence à Strasbourg. Cette implantation confirme le poids régional du ferroviaire et peut soutenir l’activité industrielle autour des transports.",
+      "image_query": "entreprise + croissance",
+      "articles": [
+        {
+          "media": "Les Dernières Nouvelles d’Alsace",
+          "url": "https://www.dna.fr/economie/2026/04/02/le-japonais-hitachi-rail-ouvre-une-agence-a-strasbourg",
+          "description": "Annonce de l’ouverture de l’agence locale",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Invest Eastern France",
+          "url": "https://international.grandestdeveloppement.fr/fr/alsace/",
+          "description": "Contexte économique régional et attractivité",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Invest Eastern France",
+          "url": "https://international.grandestdeveloppement.fr/fr/atmos-space-cargo-strasbourg/",
+          "description": "Page listant aussi l’implantation Hitachi Rail",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Bolloré",
+          "url": "https://www.bollore.com/fr/actualites/",
+          "description": "Actualités industrielles liées aux transports",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 3,
+      "categorie": "Agroalimentaire",
+      "titre": "Fortwenger relance les têtes-choco",
+      "resume": "À Molsheim, Fortwenger Chocolaterie relance une production industrielle de têtes-choco depuis l’ancienne chocolaterie Cémoi. Le sujet concerne l’emploi local, le savoir-faire alsacien et le retour d’un produit populaire.",
+      "image_query": "entreprise + croissance",
+      "articles": [
+        {
+          "media": "Le Journal des Entreprises",
+          "url": "https://www.lejournaldesentreprises.com/breve/fortwenger-relance-la-production-industrielle-de-tetes-choco-depuis-lalsace-2138429",
+          "description": "Synthèse économique de la relance à Molsheim",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "L’Alsace",
+          "url": "https://video-streaming.orange.fr/actu-politique/fortwenger-chocolaterie-relance-la-production-industrielle-de-tetes-choco-a-molsheim-CNT000002oatUr.html",
+          "description": "Vidéo sur la reprise de production locale",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "DNA Molsheim",
+          "url": "https://www.facebook.com/dnamolsheim/posts/depuis-un-mois-fortwenger-chocolaterie-produit-%C3%A0-molsheim-des-t%C3%AAtes-choco-ces-co/1525387745749937/",
+          "description": "Publication locale sur la production relancée",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Ville de Molsheim",
+          "url": "https://www.molsheim.fr/wp-content/uploads/2025/06/molshemien-113-net.pdf",
+          "description": "Contexte municipal sur le site Fortwenger",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 4,
+      "categorie": "Discrimination",
+      "titre": "Nancy mobilisée contre les LGBTIphobies",
+      "resume": "À Nancy, militants et sympathisants se sont rassemblés place Stanislas pour la Journée internationale contre l’homophobie, la transphobie et la biphobie. La mobilisation intervient dans un contexte de hausse des infractions ciblées.",
+      "image_query": "LGBT + combat",
+      "articles": [
+        {
+          "media": "L’Est Républicain",
+          "url": "https://www.estrepublicain.fr/societe/2026/05/17/lutte-contre-les-lgbtiphobies-etre-soi-c-est-un-droit-clament-des-militants-reunis-place-stanislas",
+          "description": "Compte rendu du rassemblement à Nancy",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Équinoxe Nancy",
+          "url": "https://www.instagram.com/p/DYb_S2sgavY/",
+          "description": "Annonce associative du rassemblement",
+          "auteur": "Équinoxe Nancy",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Équinoxe Nancy",
+          "url": "https://www.instagram.com/p/DYUAPfTiL3C/",
+          "description": "Message militant lié au 17 mai",
+          "auteur": "Équinoxe Nancy",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Threads",
+          "url": "https://www.threads.com/%40yasirnaqvicdn/post/DYdo9xODb0G/a-loccasion-de-la-journee-internationale-contre-lhomophobie-la-transphobie-et",
+          "description": "Relais du rendez-vous place Stanislas",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 5,
+      "categorie": "Violence",
+      "titre": "Un conducteur frappé au tournevis à Nancy",
+      "resume": "Un automobiliste a été condamné à Nancy après avoir frappé avec un tournevis un conducteur qu’il accusait de lui avoir coupé la route. L’affaire rappelle les risques de violences liées aux tensions routières en ville.",
+      "image_query": "faits divers + agression",
+      "articles": [
+        {
+          "media": "L’Est Républicain",
+          "url": "https://www.estrepublicain.fr/faits-divers-justice/2026/05/16/il-frappe-un-conducteur-avec-un-tournevis-pour-une-queue-de-poisson",
+          "description": "Récit de l’audience correctionnelle",
+          "auteur": "Jean-Christophe Vincent",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "L’Est Républicain Nancy",
+          "url": "https://www.facebook.com/LEstRepublicainNancy/posts/un-automobiliste-a-%C3%A9t%C3%A9-condamn%C3%A9-ce-vendredi-15-mai-par-le-tribunal-correctionnel/1546768094126378/",
+          "description": "Relais social de l’article judiciaire",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "L’Est Républicain Nancy",
+          "url": "https://www.facebook.com/LEstRepublicainNancy/posts/1473893528080502/",
+          "description": "Autre relais de l’affaire nancéienne",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "FaitsDivers365",
+          "url": "https://faitsdivers365.fr/grand-est/meurthe-et-moselle/",
+          "description": "Agrégation du fait divers en Meurthe-et-Moselle",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    }
+  ]
+}

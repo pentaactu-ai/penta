@@ -1,0 +1,205 @@
+{
+  "zone": "France, DOM-TOM compris",
+  "fenetre": "48 dernières heures",
+  "actualites": [
+    {
+      "rang": 1,
+      "categorie": "Violences conjugales",
+      "titre": "Une femme étranglée, son mari incarcéré",
+      "resume": "Dans le Val-d’Oise, une femme de 68 ans a été retrouvée morte en pleine rue à Saint-Prix. Son mari, âgé de 63 ans, a reconnu les faits selon le parquet, puis a été mis en examen et placé en détention provisoire.",
+      "image_query": "faits divers + meurtre",
+      "articles": [
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/18/dans-le-val-d-oise-le-mari-d-une-sexagenaire-retrouvee-etranglee-en-pleine-rue-mis-en-examen_6690875_3224.html",
+          "description": "Mise en examen du mari après la mort à Saint-Prix.",
+          "auteur": "Le Monde avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/val-d-oise-95/val-doise-une-femme-etranglee-retrouvee-en-pleine-rue-son-mari-reconnait-les-faits-17-05-2026-MF6NX6WGEBAMJO2FXKKJQTV3JY.php",
+          "description": "Récit du drame et éléments du parquet de Pontoise.",
+          "auteur": "Thibault Chaffotte et Le Parisien avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "DNA",
+          "url": "https://www.dna.fr/faits-divers-justice/2026/05/18/une-femme-etranglee-retrouvee-morte-en-pleine-rue-dans-le-val-d-oise-son-mari-incarcere",
+          "description": "Détails sur l’incarcération du conjoint suspecté.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "CNews",
+          "url": "https://www.cnews.fr/faits-divers/2026-05-16/val-doise-une-femme-retrouvee-morte-dans-la-rue-son-mari-reconnait-lavoir",
+          "description": "Premiers faits connus après la découverte du corps.",
+          "auteur": "CNews avec AFP",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 2,
+      "categorie": "Crimes anciens",
+      "titre": "Émile Louis : les fouilles reprennent",
+      "resume": "À Rouvray, dans l’Yonne, de nouvelles fouilles ont commencé pour tenter de retrouver les dépouilles de victimes d’Émile Louis. Les familles espèrent encore obtenir des réponses et une sépulture pour les disparues.",
+      "image_query": "justice + enquête",
+      "articles": [
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/05/18/affaire-emile-louis-reprise-des-fouilles-pour-retrouver-les-depouilles-des-victimes-manquantes-du-tueur-en-serie_6690880_3224.html",
+          "description": "Point sur la reprise des recherches à Rouvray.",
+          "auteur": "Le Monde avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "La Dépêche",
+          "url": "https://www.ladepeche.fr/2026/05/18/cimetiere-du-tueur-en-serie-emile-louis-pourquoi-des-fouilles-ont-repris-pour-la-3e-fois-en-deux-ans-sur-un-lieu-indique-par-le-boucher-de-lyonne-13376597.php",
+          "description": "Explications sur les nouvelles fouilles judiciaires.",
+          "auteur": "Martin Planques",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Planet",
+          "url": "https://www.planet.fr/faits-divers-affaire-emile-louis-les-enqueteurs-reprennent-les-fouilles-dans-le-cimetiere-du-boucher-de-lyonne.2996916.807918.html",
+          "description": "Retour sur le site fouillé et les victimes recherchées.",
+          "auteur": "Sarah Martin",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TF1 Info",
+          "url": "https://www.tf1info.fr/justice-faits-divers/les-fouilles-dans-le-cimetiere-du-tueur-en-serie-emile-louis-vont-reprendre-le-18-mai-2026-2439870.html",
+          "description": "Annonce du calendrier et du cadre des fouilles.",
+          "auteur": "M.G avec AFP",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 3,
+      "categorie": "Violences sexuelles",
+      "titre": "Digne : un procès pour sept ans de sévices",
+      "resume": "La cour d’assises de Digne-les-Bains juge un homme de 51 ans accusé d’avoir violé, torturé et contraint son ex-compagne à la prostitution pendant plusieurs années. La victime a refusé le huis clos.",
+      "image_query": "justice + procès",
+      "articles": [
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/faits-divers/la-pire-vision-de-lenfer-un-directeur-dagence-bancaire-devant-les-assises-pour-actes-de-torture-et-viols-sur-sa-compagne-18-05-2026-XNWZ6G6ABBES7DQXXSFUUFJZ6U.php",
+          "description": "Ouverture du procès et accusations contre l’ancien banquier.",
+          "auteur": "Le Parisien avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Femme Actuelle",
+          "url": "https://www.femmeactuelle.fr/actu/news-actu/forcee-a-faire-les-horreurs-pendant-7-ans-le-proces-de-lhomme-accuse-davoir-viole-torture-et-prostitue-sa-compagne-laetitia-r-debute-2207587",
+          "description": "Portrait de Laëtitia R. et rappel des accusations.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TF1 Info",
+          "url": "https://www.tf1info.fr/justice-faits-divers/le-temoignage-glacant-de-laetitia-livree-a-plusieurs-centaines-d-inconnus-par-son-ex-compagnon-dans-sept-a-huit-2439466.html",
+          "description": "Témoignage de la victime avant l’audience d’assises.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Faits Divers 365",
+          "url": "https://faitsdivers365.fr/provence-alpes-cote-dazur/alpes-de-haute-provence/digne-les-bains/",
+          "description": "Revue de sources locales sur le procès de Digne.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 4,
+      "categorie": "Affaire Epstein",
+      "titre": "Epstein : dix nouvelles victimes en France",
+      "resume": "Le parquet de Paris indique qu’une dizaine de nouvelles victimes présumées se sont manifestées dans l’enquête française sur le réseau Epstein. Les investigations visent d’éventuels relais ou complices en France.",
+      "image_query": "justice + enquête",
+      "articles": [
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/faits-divers/affaire-epstein-une-dizaine-de-nouvelles-victimes-se-sont-manifestees-aupres-du-parquet-de-paris-17-05-2026-SO7DT3DHYVHMJLT3QHKVBBGFHY.php",
+          "description": "Annonce de nouvelles victimes auprès du parquet de Paris.",
+          "auteur": "Le Parisien avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "RTL",
+          "url": "https://www.rtl.fr/actu/justice-faits-divers/affaire-epstein-une-dizaine-de-nouvelles-victimes-se-sont-manifestees-annonce-la-procureure-de-paris-sur-rtl-7900635659",
+          "description": "Entretien de la procureure Laure Beccuau sur RTL.",
+          "auteur": "Jérémy Descours",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Euronews",
+          "url": "https://fr.euronews.com/my-europe/2026/05/18/affaire-epstein-une-dizaine-de-nouvelles-victimes-se-sont-manifestees-aupres-du-parquet-de",
+          "description": "Contexte européen et enquête française sur Epstein.",
+          "auteur": "Gavin Blackburn",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "La Dépêche",
+          "url": "https://www.ladepeche.fr/2026/05/17/affaire-epstein-le-parquet-de-paris-recense-une-dizaine-de-nouvelles-victimes-presumees-13375497.php",
+          "description": "Détail du nombre de victimes et des vérifications.",
+          "auteur": "Méline Mergey",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Valeurs actuelles",
+          "url": "https://www.valeursactuelles.com/societe/affaire-epstein-de-nouvelles-victimes-se-sont-adressees-au-parquet-de-paris",
+          "description": "Synthèse sur les victimes et les relais recherchés.",
+          "auteur": "valeursactuelles.com",
+          "accessibilite": "partiellement gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 5,
+      "categorie": "Cohue commerciale",
+      "titre": "Swatch : la ruée vire au chaos",
+      "resume": "La vente de montres Swatch-Audemars Piguet a provoqué files d’attente, mouvements de foule, fermetures de boutiques et interventions policières en France. L’affaire interroge la sécurité des lancements commerciaux.",
+      "image_query": "faits divers + intervention policière",
+      "articles": [
+        {
+          "media": "RTL",
+          "url": "https://www.rtl.fr/actu/economie-consommation/les-gens-n-ont-pas-reussi-a-se-contenir-une-operation-de-vente-de-montres-swatch-audemars-piguet-tourne-au-chaos-7900635543",
+          "description": "Récit des échauffourées autour de la vente Swatch.",
+          "auteur": "AFP et Romaric Cayet",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/video/video-swatch-audemars-piguet-ce-modele-ne-prendra-pas-de-valeur-alerte-un-horloger-18-05-2026-SRKI2IMRS5HWZEGACHOYRV7XL4.php",
+          "description": "Vidéo sur les tensions et la spéculation autour du modèle.",
+          "auteur": "Juliette Halliez et Sébastien Thomas",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Euronews",
+          "url": "https://fr.euronews.com/culture/2026/05/18/folie-des-montres-pop-swatch-appelle-au-calme-face-a-lengouement-pour-sa-royal-pop",
+          "description": "Appel au calme de Swatch après des scènes de chaos.",
+          "auteur": "Yolaine De Kerchove Dexaerde",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le JDD",
+          "url": "https://www.lejdd.fr/Societe/tensions-mouvement-de-foule-la-vente-de-la-montre-swatch-x-audemars-piguet-tourne-au-chaos-174081",
+          "description": "Mouvements de foule et fermetures de magasins en France.",
+          "auteur": "Marianne Lecach",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "FashionNetwork",
+          "url": "https://fr.fashionnetwork.com/news/Une-operation-de-vente-de-montres-swatch-audemars-piguet-tourne-au-chaos%2C1832616.html",
+          "description": "Dépêche AFP sur les tensions en France et en Europe.",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        }
+      ]
+    }
+  ]
+}

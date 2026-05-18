@@ -1,0 +1,247 @@
+{
+  "zone": "France, DOM-TOM compris",
+  "fenetre": "48 dernières heures",
+  "actualites": [
+    {
+      "rang": 1,
+      "categorie": "Carburants",
+      "titre": "L’essence repasse au-dessus des deux euros",
+      "resume": "Le sans-plomb atteint un nouveau record en France depuis le début de la guerre au Moyen-Orient. La hausse pèse directement sur les trajets domicile-travail, les vacances, les entreprises mobiles et les ménages dépendants de la voiture.",
+      "image_query": "énergie + hausse des prix",
+      "articles": [
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/economie/19-pour-le-sp95-17-pour-le-sp98-le-prix-de-lessence-a-un-niveau-record-depuis-le-debut-de-la-guerre-en-iran-17-05-2026-SFI4J57XEVFQDLDNJRRCLDNCN4.php",
+          "description": "Détaille les records du SP95-E10 et du SP98.",
+          "auteur": "Le Parisien avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Connaissance des Énergies",
+          "url": "https://www.connaissancedesenergies.org/afp/le-prix-de-lessence-atteint-un-niveau-record-depuis-le-debut-de-la-guerre-en-iran-260517",
+          "description": "Reprend l’analyse AFP sur les prix à la pompe.",
+          "auteur": "Connaissance des Énergies avec AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Zinfos974",
+          "url": "https://www.zinfos974.com/carburants-le-prix-du-sans-plomb-atteint-un-nouveau-record-en-france-depuis-le-debut-de-la-guerre-en-iran/",
+          "description": "Explique la hausse et ses effets nationaux.",
+          "auteur": "Zinfos974",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "BFM Business",
+          "url": "https://www.dailymotion.com/video/xaa2hes",
+          "description": "Montre l’effet concret sur les conducteurs.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/economie/carburants-total-maintient-le-blocage-des-prix-pour-le-week-end-de-la-pentecote-18-05-2026-C3Q3QRCZS5E5PPRAHN5JAJTW2M.php",
+          "description": "Présente le plafond TotalEnergies à la Pentecôte.",
+          "auteur": "Louis Valleau",
+          "accessibilite": "partiellement gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 2,
+      "categorie": "G7 Finances",
+      "titre": "Le G7 Finances cherche une réponse à Paris",
+      "resume": "Les ministres des Finances du G7 sont réunis à Bercy les 18 et 19 mai. La France veut rapprocher les positions sur le pétrole, les minerais critiques, les tensions commerciales et les risques qui menacent les prix et la croissance.",
+      "image_query": "international + sommet",
+      "articles": [
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/international/conflit-au-moyen-orient-les-ministres-des-finances-du-g7-reunis-a-paris-pour-rapprocher-leurs-positions-18-05-2026-ROZW37ZM5NCUVGL3BUVMJXJN4Q.php",
+          "description": "Résume les objectifs de la réunion à Paris.",
+          "auteur": "Le Parisien avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/en-plein-conflit-au-moyen-orient-le-g7-finances-a-paris-au-chevet-de-l-economie-mondiale-0c6f038e528ad9efaaada3573da112ec",
+          "description": "Expose les enjeux énergie, dette et minerais.",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "La Tribune",
+          "url": "https://www.latribune.fr/article/economie/30479659235504/g7-finances-a-paris-production-industrielle-en-chine-petrole-en-hausse-lessentiel-de-lactualite-ce-lundi",
+          "description": "Replace le G7 dans la journée économique.",
+          "auteur": "latribune.fr",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Le Grand Continent",
+          "url": "https://legrandcontinent.eu/fr/2026/05/18/apres-la-visite-de-trump-en-chine-les-ministres-des-finances-des-pays-du-g7-se-reunissent-a-paris/",
+          "description": "Analyse le contexte géopolitique du sommet.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "BFM Business",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-le-g7-finances-commence-a-paris_VN-202605180151.html",
+          "description": "Vidéo sur les dossiers discutés à Bercy.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TV5Monde",
+          "url": "https://information.tv5monde.com/economie/en-pleine-guerre-au-moyen-orient-le-g7-finances-paris-au-chevet-de-leconomie-mondiale-2822025",
+          "description": "Présente l’impact mondial des discussions.",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 3,
+      "categorie": "Salaires",
+      "titre": "La CFDT pousse pour rouvrir les salaires",
+      "resume": "Face au retour de l’inflation et à la hausse des carburants, la CFDT demande aux entreprises et employeurs publics de relancer les négociations salariales. Le sujet touche directement le pouvoir d’achat de millions d’actifs.",
+      "image_query": "social + négociation",
+      "articles": [
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/economie/marylise-leon-numero-un-de-la-cfdt-il-est-imperatif-de-rouvrir-des-negociations-salariales-16-05-2026-QDXSCZ7GJJENPHXRH5JZBKW4ME.php",
+          "description": "Entretien avec Marylise Léon sur les salaires.",
+          "auteur": "Aurélie Lebelle et Maxime Gayraud",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "La Tribune",
+          "url": "https://www.latribune.fr/article/economie/22913188622411/pouvoir-d-achat-la-cfdt-reclame-de-nouvelles-negociations-salariales",
+          "description": "Analyse la demande CFDT et les branches sous Smic.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Politique Matin",
+          "url": "https://www.politiquematin.fr/negociations-salariales-cfdt-pousse-nouvelles",
+          "description": "Explique la pression syndicale avant le Smic.",
+          "auteur": "Paolo Garoscio",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "BFM Business",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-salaires-les-entreprises-sous-pression-18-05_EN-202605180345.html",
+          "description": "Débat sur salaires, entreprises et croissance.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/politique/article/2026/05/16/presidentielle-2027-le-travailler-plus-face-au-travailler-mieux_6689636_823448.html",
+          "description": "Situe le débat travail et pouvoir d’achat.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "payant"
+        }
+      ]
+    },
+    {
+      "rang": 4,
+      "categorie": "Industrie santé",
+      "titre": "Urgo investit 150 millions en France",
+      "resume": "Le groupe familial Urgo, connu pour ses pansements et soins médicaux, dépasse le milliard d’euros de chiffre d’affaires et annonce 150 millions d’euros d’investissements en France pour la recherche, l’innovation et ses sites industriels.",
+      "image_query": "entreprise + croissance",
+      "articles": [
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/economie/urgo-depasse-le-milliard-deuros-de-chiffre-daffaires-en-faisant-du-made-in-france-et-annonce-150-millions-deuros-dinvestissement-18-05-2026-XHFBEQQVAFGWHDTMMGHTLZNOSY.php",
+          "description": "Annonce les investissements et les emplois.",
+          "auteur": "Le Parisien avec AFP",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "La Tribune",
+          "url": "https://www.latribune.fr/article/entreprises-finance/industrie/79885840189433/lentreprise-familiale-urgo-depasse-le-milliard-deuros-de-chiffre-daffaires-et-investit-en-france",
+          "description": "Décrypte la stratégie industrielle d’Urgo.",
+          "auteur": "Pierrick Merlet",
+          "accessibilite": "payant"
+        },
+        {
+          "media": "L’Usine Nouvelle",
+          "url": "https://www.usinenouvelle.com/sante-pharma/urgo-va-passer-la-barre-du-milliard-deuros-de-ventes-en-2026-et-prevoit-150-millions-deuros-dinvestissements-supplementaires-en-france.GRDN7QR6ORF4RFJDBUC2K3H6RQ.html",
+          "description": "Détaille le plan industriel 2026-2027.",
+          "auteur": "Julien Cottineau",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "MyPharma Editions",
+          "url": "https://www.mypharma-editions.com/urgo-franchit-le-cap-du-milliard-deuros-de-chiffre-daffaires",
+          "description": "Reprend le communiqué et les chiffres clés.",
+          "auteur": "Rédaction",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Challenges",
+          "url": "https://www.challenges.fr/entreprise/sante/laventure-urgo-ne-fait-que-commencer-le-fleuron-familial-depasse-le-milliard-de-chiffre-daffaires-et-reinvestit-150-millions-en-france_643364",
+          "description": "Raconte la croissance du fleuron bourguignon.",
+          "auteur": "Guillaume Echelard",
+          "accessibilite": "payant"
+        },
+        {
+          "media": "Creusot Infos",
+          "url": "https://www.creusot-infos.com/news/bourgogne-franche-comte/bourgogne-franche-comte/economie-urgo-franchit-le-cap-du-milliard-d-euros-de-chiffre-d-affaires-1779055200.html",
+          "description": "Relaye l’annonce avec l’ancrage régional.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        }
+      ]
+    },
+    {
+      "rang": 5,
+      "categorie": "Loi agricole",
+      "titre": "La loi agricole arrive dans l’hémicycle",
+      "resume": "Le projet de loi d’urgence agricole arrive à l’Assemblée nationale. Prix, contrats, élevage, eau, normes et souveraineté alimentaire cristallisent les tensions entre producteurs, gouvernement, écologistes et filières agroalimentaires.",
+      "image_query": "agriculture + production",
+      "articles": [
+        {
+          "media": "Basta!",
+          "url": "https://basta.media/comprendre-enjeux-loi-urgence-agricole-megabassines-ICPE-recours-pesticides",
+          "description": "Explique les enjeux et les critiques du texte.",
+          "auteur": "Sophie Chapelle",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "La Tribune",
+          "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/47320263218659/la-loi-d-urgence-agricole-debarque-a-l-assemblee",
+          "description": "Présente l’arrivée du texte à l’Assemblée.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/economie/comme-si-un-lien-avait-ete-coupe-avec-la-population-linquietude-dune-eleveuse-de-volailles-de-la-sarthe-18-05-2026-HROKGZUEGBB4DNWHP33IHLGO2M.php",
+          "description": "Illustre le débat par le quotidien d’une éleveuse.",
+          "auteur": "Axelle Debaene",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "AGRA Presse",
+          "url": "https://www.agra.fr/fil/agrafil-du-18-mai-2026",
+          "description": "Détaille les amendements sur prix et contrats.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "partiellement gratuit"
+        },
+        {
+          "media": "Agriculture Drômoise",
+          "url": "https://www.agriculture-dromoise.fr/articles/assises-du-sanitaire-la-mise-en-oeuvre-acceleree/",
+          "description": "Explique les volets sanitaires de l’élevage.",
+          "auteur": "Y. G.",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Matot Braine",
+          "url": "https://matot-braine.fr/au-sommaire/entreprises/face-au-droit-de-produire-les-agriculteurs-veulent-des-actes",
+          "description": "Donne la position d’agriculteurs avant le débat.",
+          "auteur": "Nastasia Desanti",
+          "accessibilite": "gratuit"
+        }
+      ]
+    }
+  ]
+}
