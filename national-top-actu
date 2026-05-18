@@ -1,188 +1,223 @@
 {
-  "zone": "Grand Est",
+  "zone": "France, Outre-mer compris",
   "fenetre": "48 dernières heures",
   "actualites": [
     {
       "rang": 1,
-      "categorie": "Justice",
-      "titre": "Les avocats d’Alsace restent mobilisés",
-      "resume": "La contestation contre le projet de « plaider-coupable criminel » continue de peser sur les juridictions alsaciennes. À Saverne, certaines audiences restent perturbées, tandis que la Chancellerie répond aux critiques des barreaux.",
-      "image_query": "justice + enquête",
+      "categorie": "Corps électoral",
+      "titre": "Nouvelle-Calédonie : le vote relancé",
+      "resume": "Le Sénat examine en urgence une réforme du corps électoral pour les provinciales du 28 juin en Nouvelle-Calédonie. Le sujet reste très sensible après les violences de 2024 et conditionne l’organisation du scrutin local.",
+      "image_query": "politique + vote",
       "articles": [
         {
-          "media": "Les Dernières Nouvelles d’Alsace",
-          "url": "https://www.dna.fr/faits-divers-justice/2026/05/11/nouveau-mouvement-de-protestation-des-avocats-contre-le-plaider-coupable-criminel",
-          "description": "Point local sur la mobilisation des avocats",
-          "auteur": "auteur non trouvé",
-          "accessibilite": "partiellement gratuit"
-        },
-        {
-          "media": "Assemblée nationale",
-          "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mardi-28-avril-2026",
-          "description": "Débat parlementaire sur la réforme contestée",
-          "auteur": "auteur non trouvé",
-          "accessibilite": "gratuit"
-        },
-        {
-          "media": "RTL",
-          "url": "https://www.dailymotion.com/video/xa9kjmk",
-          "description": "Journal évoquant le recul du ministère",
-          "auteur": "RTL",
-          "accessibilite": "gratuit"
-        },
-        {
           "media": "Le Monde",
-          "url": "https://www.lemonde.fr/idees/article/2025/05/15/benjamin-fiorini-juriste-l-institution-d-un-plaider-coupable-en-matiere-criminelle-serait-catastrophique_6606270_3232.html",
-          "description": "Analyse juridique des risques de la réforme",
-          "auteur": "Benjamin Fiorini",
+          "url": "https://www.lemonde.fr/politique/article/2026/05/17/nouvelle-caledonie-devant-le-senat-l-obstination-du-gouvernement-pour-modifier-le-corps-electoral_6690252_823448.html",
+          "description": "Analyse du bras de fer au Sénat.",
+          "auteur": "Nathalie Guibert",
           "accessibilite": "payant"
+        },
+        {
+          "media": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/politique/elections-provinciales-en-nouvelle-caledonie-le-texte-visant-a-elargir-le-corps-electoral-adopte-en-commission-au-senat",
+          "description": "Vote en commission et calendrier.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "TV5Monde",
+          "url": "https://information.tv5monde.com/france/nouvelle-caledonie-le-gouvernement-engage-dans-un-contre-la-montre-incertain-au-parlement-2822018",
+          "description": "Le contre-la-montre parlementaire.",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Maire-info",
+          "url": "https://www.maire-info.com/mobile/article.php?ref_article=30792",
+          "description": "Lecture pour les élus locaux.",
+          "auteur": "auteur non trouvé",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "La Gazette France",
+          "url": "https://www.lagazettefrance.fr/article/nouvelle-caledonie-le-gouvernement-engage-dans-un-contre-la-montre-incertain-au-parlement",
+          "description": "Dépêche AFP sur la réforme.",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
         }
       ]
     },
     {
       "rang": 2,
-      "categorie": "Industrie",
-      "titre": "Hitachi Rail s’implante à Strasbourg",
-      "resume": "Le groupe japonais Hitachi Rail renforce sa présence dans le Grand Est avec une agence à Strasbourg. Cette implantation confirme le poids régional du ferroviaire et peut soutenir l’activité industrielle autour des transports.",
-      "image_query": "entreprise + croissance",
+      "categorie": "Sécurité publique",
+      "titre": "Loi Ripost : le Sénat durcit la sécurité",
+      "resume": "Le Sénat commence l’examen du projet de loi Ripost, qui vise les rodéos motorisés, rave parties illégales, mortiers, protoxyde d’azote et violences dans les stades. Le texte promet des sanctions plus rapides.",
+      "image_query": "société + sécurité",
       "articles": [
         {
-          "media": "Les Dernières Nouvelles d’Alsace",
-          "url": "https://www.dna.fr/economie/2026/04/02/le-japonais-hitachi-rail-ouvre-une-agence-a-strasbourg",
-          "description": "Annonce de l’ouverture de l’agence locale",
-          "auteur": "auteur non trouvé",
+          "media": "Le Parisien",
+          "url": "https://www.leparisien.fr/politique/un-choc-dautorite-raves-rodeos-motorises-protoxyde-dazote-le-projet-de-loi-ripost-arrive-au-senat-18-05-2026-H4Q2TOCXB5B4RJ7VKNYMIDVOOQ.php",
+          "description": "Vue d’ensemble du projet Ripost.",
+          "auteur": "Le Parisien avec AFP",
           "accessibilite": "partiellement gratuit"
         },
         {
-          "media": "Invest Eastern France",
-          "url": "https://international.grandestdeveloppement.fr/fr/alsace/",
-          "description": "Contexte économique régional et attractivité",
-          "auteur": "auteur non trouvé",
+          "media": "La Dépêche",
+          "url": "https://www.ladepeche.fr/2026/05/18/rave-parties-protoxyde-dazote-violences-dans-les-stades-que-contient-la-loi-rispost-examinee-au-senat-a-partir-de-ce-lundi-13376808.php",
+          "description": "Mesures contre raves et rodéos.",
+          "auteur": "Yohan Lemaire",
           "accessibilite": "gratuit"
         },
         {
-          "media": "Invest Eastern France",
-          "url": "https://international.grandestdeveloppement.fr/fr/atmos-space-cargo-strasbourg/",
-          "description": "Page listant aussi l’implantation Hitachi Rail",
-          "auteur": "auteur non trouvé",
+          "media": "TF1info",
+          "url": "https://www.tf1info.fr/justice-faits-divers/video-reportage-tf1-ils-arrivent-comme-des-balles-l-appel-d-un-maire-pour-une-loi-plus-repressive-contre-les-rodeos-urbains-2442030.html",
+          "description": "Reportage sur les rodéos urbains.",
+          "auteur": "La rédaction de TF1info",
           "accessibilite": "gratuit"
         },
         {
-          "media": "Bolloré",
-          "url": "https://www.bollore.com/fr/actualites/",
-          "description": "Actualités industrielles liées aux transports",
-          "auteur": "auteur non trouvé",
+          "media": "TV5Monde",
+          "url": "https://information.tv5monde.com/france/un-choc-dautorite-face-aux-raves-et-aux-rodeos-motorises-le-projet-de-loi-ripost-arrive-au-senat-2822021",
+          "description": "Dépêche sur l’arrivée au Sénat.",
+          "auteur": "AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Public Sénat",
+          "url": "https://www.senat.fr/actualite/reponses-immediates-aux-phenomenes-troublant-lordre-public-7555.html",
+          "description": "Suivi officiel de la séance.",
+          "auteur": "Sénat",
           "accessibilite": "gratuit"
         }
       ]
     },
     {
       "rang": 3,
-      "categorie": "Agroalimentaire",
-      "titre": "Fortwenger relance les têtes-choco",
-      "resume": "À Molsheim, Fortwenger Chocolaterie relance une production industrielle de têtes-choco depuis l’ancienne chocolaterie Cémoi. Le sujet concerne l’emploi local, le savoir-faire alsacien et le retour d’un produit populaire.",
-      "image_query": "entreprise + croissance",
+      "categorie": "Diplomatie judiciaire",
+      "titre": "Darmanin à Alger pour renouer les liens",
+      "resume": "Gérald Darmanin se rend à Alger pour relancer la coopération judiciaire avec l’Algérie. La visite aborde la DZ Mafia, les biens mal acquis et le cas du journaliste français Christophe Gleizes détenu en Algérie.",
+      "image_query": "diplomatie + négociation",
       "articles": [
         {
-          "media": "Le Journal des Entreprises",
-          "url": "https://www.lejournaldesentreprises.com/breve/fortwenger-relance-la-production-industrielle-de-tetes-choco-depuis-lalsace-2138429",
-          "description": "Synthèse économique de la relance à Molsheim",
-          "auteur": "auteur non trouvé",
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/afrique/article/2026/05/17/gerald-darmanin-se-rend-en-algerie-pour-relancer-la-cooperation-securitaire-apres-presque-deux-ans-de-crise-diplomatique_6690258_3212.html",
+          "description": "Contexte diplomatique de la visite.",
+          "auteur": "Simon Roger",
+          "accessibilite": "payant"
+        },
+        {
+          "media": "Le Point",
+          "url": "https://www.lepoint.fr/afrique/christophe-gleizes-dz-mafia-les-chantiers-de-darmanin-a-alger-IRRRXXAMJVCABNNUSVCERCAJ3I/",
+          "description": "Les dossiers négociés à Alger.",
+          "auteur": "Adlène Meddi",
           "accessibilite": "partiellement gratuit"
         },
         {
-          "media": "L’Alsace",
-          "url": "https://video-streaming.orange.fr/actu-politique/fortwenger-chocolaterie-relance-la-production-industrielle-de-tetes-choco-a-molsheim-CNT000002oatUr.html",
-          "description": "Vidéo sur la reprise de production locale",
-          "auteur": "auteur non trouvé",
+          "media": "TV5Monde",
+          "url": "https://information.tv5monde.com/france/gerald-darmanin-se-rend-alger-lundi-pour-evoquer-la-cooperation-judiciaire-et-le-cas-de-christophe-gleizes-2821795",
+          "description": "Présentation des enjeux judiciaires.",
+          "auteur": "AFP",
           "accessibilite": "gratuit"
         },
         {
-          "media": "DNA Molsheim",
-          "url": "https://www.facebook.com/dnamolsheim/posts/depuis-un-mois-fortwenger-chocolaterie-produit-%C3%A0-molsheim-des-t%C3%AAtes-choco-ces-co/1525387745749937/",
-          "description": "Publication locale sur la production relancée",
-          "auteur": "auteur non trouvé",
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/darmanin-se-rend-a-alger-lundi-nouvelle-etape-du-rechauffement-franco-algerien-05f3b3bbc9f25861c191c361d8dc4bf2",
+          "description": "Dépêche sur le réchauffement.",
+          "auteur": "AFP",
           "accessibilite": "gratuit"
         },
         {
-          "media": "Ville de Molsheim",
-          "url": "https://www.molsheim.fr/wp-content/uploads/2025/06/molshemien-113-net.pdf",
-          "description": "Contexte municipal sur le site Fortwenger",
-          "auteur": "auteur non trouvé",
+          "media": "TF1info",
+          "url": "https://www.tf1info.fr/international/detention-du-journaliste-christophe-gleizes-gerald-darmanin-attendu-en-algerie-ce-lundi-2441847.html",
+          "description": "Focus sur Christophe Gleizes.",
+          "auteur": "T.G. avec AFP",
           "accessibilite": "gratuit"
         }
       ]
     },
     {
       "rang": 4,
-      "categorie": "Discrimination",
-      "titre": "Nancy mobilisée contre les LGBTIphobies",
-      "resume": "À Nancy, militants et sympathisants se sont rassemblés place Stanislas pour la Journée internationale contre l’homophobie, la transphobie et la biphobie. La mobilisation intervient dans un contexte de hausse des infractions ciblées.",
-      "image_query": "LGBT + combat",
+      "categorie": "Aides carburant",
+      "titre": "Carburants : de nouvelles aides ciblées",
+      "resume": "Sébastien Lecornu doit présenter un nouveau paquet d’aides pour juin face à la hausse des carburants. Le gouvernement refuse une aide générale et veut cibler les travailleurs et secteurs les plus exposés.",
+      "image_query": "économie + aide de l’état",
       "articles": [
         {
-          "media": "L’Est Républicain",
-          "url": "https://www.estrepublicain.fr/societe/2026/05/17/lutte-contre-les-lgbtiphobies-etre-soi-c-est-un-droit-clament-des-militants-reunis-place-stanislas",
-          "description": "Compte rendu du rassemblement à Nancy",
-          "auteur": "auteur non trouvé",
-          "accessibilite": "partiellement gratuit"
-        },
-        {
-          "media": "Équinoxe Nancy",
-          "url": "https://www.instagram.com/p/DYb_S2sgavY/",
-          "description": "Annonce associative du rassemblement",
-          "auteur": "Équinoxe Nancy",
+          "media": "Boursorama",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/prix-des-carburants-un-nouveau-paquet-d-aides-pour-juin-presente-jeudi-par-le-gouvernement-6eef2dab953d9efc8f700a7dc6f4e681",
+          "description": "Annonce du paquet d’aides.",
+          "auteur": "AFP",
           "accessibilite": "gratuit"
         },
         {
-          "media": "Équinoxe Nancy",
-          "url": "https://www.instagram.com/p/DYUAPfTiL3C/",
-          "description": "Message militant lié au 17 mai",
-          "auteur": "Équinoxe Nancy",
+          "media": "La Dépêche",
+          "url": "https://www.ladepeche.fr/2026/05/17/carburants-sebastien-lecornu-presentera-jeudi-les-nouvelles-aides-pour-le-mois-de-juin-13375805.php",
+          "description": "Détail du calendrier d’annonce.",
+          "auteur": "Mathilde Luczak",
           "accessibilite": "gratuit"
         },
         {
-          "media": "Threads",
-          "url": "https://www.threads.com/%40yasirnaqvicdn/post/DYdo9xODb0G/a-loccasion-de-la-journee-internationale-contre-lhomophobie-la-transphobie-et",
-          "description": "Relais du rendez-vous place Stanislas",
-          "auteur": "auteur non trouvé",
+          "media": "Connaissance des Énergies",
+          "url": "https://www.connaissancedesenergies.org/afp/carburants-sebastien-lecornu-presentera-ce-jeudi-les-nouvelles-aides-pour-le-mois-de-juin-260517",
+          "description": "Dépêche énergie sur les aides.",
+          "auteur": "Connaissance des Énergies avec AFP",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "MaCommune.info",
+          "url": "https://www.macommune.info/carburant-de-nouvelles-aides-presentees-jeudi-par-sebastien-lecornu/",
+          "description": "Synthèse locale du dispositif.",
+          "auteur": "Elodie Retrouvey",
+          "accessibilite": "gratuit"
+        },
+        {
+          "media": "Energynews",
+          "url": "https://energynews.pro/impact-de-la-guerre-au-moyen-orient-lecornu-presente-de-nouvelles-aides-carburant-pour-juin",
+          "description": "Angle énergie et pétrole.",
+          "auteur": "energynews",
           "accessibilite": "gratuit"
         }
       ]
     },
     {
       "rang": 5,
-      "categorie": "Violence",
-      "titre": "Un conducteur frappé au tournevis à Nancy",
-      "resume": "Un automobiliste a été condamné à Nancy après avoir frappé avec un tournevis un conducteur qu’il accusait de lui avoir coupé la route. L’affaire rappelle les risques de violences liées aux tensions routières en ville.",
-      "image_query": "faits divers + agression",
+      "categorie": "Loi agricole",
+      "titre": "Agriculture : semaine clé à l’Assemblée",
+      "resume": "Le projet de loi d’urgence agricole arrive dans une séquence décisive au Parlement. Le gouvernement veut répondre vite aux agriculteurs, mais le texte divise sur l’eau, l’élevage et les règles environnementales.",
+      "image_query": "agriculture + production",
       "articles": [
         {
-          "media": "L’Est Républicain",
-          "url": "https://www.estrepublicain.fr/faits-divers-justice/2026/05/16/il-frappe-un-conducteur-avec-un-tournevis-pour-une-queue-de-poisson",
-          "description": "Récit de l’audience correctionnelle",
-          "auteur": "Jean-Christophe Vincent",
-          "accessibilite": "partiellement gratuit"
+          "media": "La Tribune",
+          "url": "https://www.latribune.fr/article/climat/agriculture-agroalimentaire/1807662042260314/agriculture-semaine-cruciale-pour-le-dernier-grand-texte-agricole-de-la-legislature",
+          "description": "Enjeux politiques de la semaine.",
+          "auteur": "Giulietta Gamberini",
+          "accessibilite": "payant"
         },
         {
-          "media": "L’Est Républicain Nancy",
-          "url": "https://www.facebook.com/LEstRepublicainNancy/posts/un-automobiliste-a-%C3%A9t%C3%A9-condamn%C3%A9-ce-vendredi-15-mai-par-le-tribunal-correctionnel/1546768094126378/",
-          "description": "Relais social de l’article judiciaire",
+          "media": "Basta!",
+          "url": "https://basta.media/comprendre-enjeux-loi-urgence-agricole-megabassines-ICPE-recours-pesticides",
+          "description": "Décryptage critique du texte.",
           "auteur": "auteur non trouvé",
           "accessibilite": "gratuit"
         },
         {
-          "media": "L’Est Républicain Nancy",
-          "url": "https://www.facebook.com/LEstRepublicainNancy/posts/1473893528080502/",
-          "description": "Autre relais de l’affaire nancéienne",
+          "media": "Le Monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/05/06/projet-de-loi-d-urgence-agricole-le-texte-adopte-par-les-deputes-en-commission_6686179_3244.html",
+          "description": "Adoption en commission détaillée.",
           "auteur": "auteur non trouvé",
+          "accessibilite": "payant"
+        },
+        {
+          "media": "Assemblée nationale",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles",
+          "description": "Dossier législatif du texte.",
+          "auteur": "Assemblée nationale",
           "accessibilite": "gratuit"
         },
         {
-          "media": "FaitsDivers365",
-          "url": "https://faitsdivers365.fr/grand-est/meurthe-et-moselle/",
-          "description": "Agrégation du fait divers en Meurthe-et-Moselle",
-          "auteur": "auteur non trouvé",
+          "media": "Sénat",
+          "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/urgence-agricole.html",
+          "description": "Parcours et objectifs du projet.",
+          "auteur": "Sénat",
           "accessibilite": "gratuit"
         }
       ]
